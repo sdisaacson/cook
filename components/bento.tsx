@@ -48,9 +48,9 @@ const features = [
   },
   {
     Icon: "",
-    name: "I'm Josh",
+    name: "I'm Scott",
     description:
-      "software engineer & open-source contributor focused in gen-ai, web, linux, cybersecurity, and finance.",
+      "software engineer & open-source contributor focused in workforce management, human resources, and payroll.",
     className: "col-span-3 md:col-span-1",
     href: `${process.env.NEXT_PUBLIC_PORTFOLIO_URL}`,
     cta: "Visit portfolio",
@@ -270,7 +270,7 @@ const features = [
     Icon: "",
     name: "Daily Visitors",
     description: "Live visitor stats for this website, powered by Umami Analytics.",
-    href: "https://umami.hosting.sisaacson.io/share/sEYpYkeLel0OZ4tV/cook-sable-nu.vercel.app",
+    href: "https://cloud.umami.is/share/CZYMgxBza4uTqBxj/cook-sable-nu.vercel.app",
     cta: "Umami",
     className: "col-span-3 md:col-span-2",
     background: (
