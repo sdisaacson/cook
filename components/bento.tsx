@@ -270,7 +270,7 @@ const features = [
     Icon: "",
     name: "Daily Visitors",
     description: "Live visitor stats for this website, powered by Umami Analytics.",
-    href: "https://umami.hosting.sisaacson.io",
+    href: "https://umami.hosting.sisaacson.io/share/sEYpYkeLel0OZ4tV/cook-sable-nu.vercel.app",
     cta: "Umami",
     className: "col-span-3 md:col-span-2",
     background: (

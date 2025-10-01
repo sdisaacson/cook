@@ -7,7 +7,7 @@ const client = getClient();
 export async function GET(request: Request) {
   try {
     // The website ID
-    const websiteId = 'bb6307c1-ce7f-4951-8810-e814f2409ea8';
+    const websiteId = '2ff5fb4d-88e4-48a1-98ef-04b8191a6a5c';
 
     // Get the current time and the Unix epoch time in milliseconds
     const now = Date.now();
