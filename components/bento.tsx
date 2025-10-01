@@ -62,7 +62,7 @@ const features = [
               className="object-cover object-center h-full w-full"
               src={
                 process.env.AVATAR_URL ||
-                "https://github.com/engageintellect.png"
+                "https://github.com/sdisaacson.png"
               }
               alt="avatar image"
               width={200}
@@ -270,7 +270,7 @@ const features = [
     Icon: "",
     name: "Daily Visitors",
     description: "Live visitor stats for this website, powered by Umami Analytics.",
-    href: "https://umami.is",
+    href: "https://umami.hosting.sisaacson.io",
     cta: "Umami",
     className: "col-span-3 md:col-span-2",
     background: (

@@ -19,11 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script
-          defer
-          src="https://cloud.umami.is/script.js"
-          data-website-id="e2279467-b5f6-4e9d-8b62-869876b433f9"
-        ></script>
+       <script defer src="https://umami.hosting.sisaacson.io/script.js" data-website-id="bb6307c1-ce7f-4951-8810-e814f2409ea8"></script>
       </head>
       <body className={inter.className}>
         <ThemeProvider

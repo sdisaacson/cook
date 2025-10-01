@@ -6,7 +6,7 @@ interface Repo {
 }
 
 export async function GET(request: Request): Promise<Response> {
-  const username = "engageintellect";
+  const username = "sdisaacson";
   const token = process.env.GITHUB_TOKEN; // Ensure you set this in your environment variables
   const baseUrl = `https://api.github.com/users/${username}/repos`;
   const headers = {

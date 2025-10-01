@@ -37,7 +37,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="mailto:engage_intellect@protonmail.com"
+                href="mailto:scott@sisaacson.io"
                 target="_blank"
                 className="flex-1"
               >
